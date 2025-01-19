@@ -60,33 +60,15 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshika-cg&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-</p>
+### ✨ A Glimpse of Me Through Code:
+```javascript
+const vanshika = {
+  name: "Vanshika Jangam",
+  role: "Frontend Developer",
+  passion: "Crafting delightful user experiences 🌟",
+  skills: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+  hobbies: ["UI/UX Design", "Learning New Tools", "Exploring Tech"],
+  quote: "Design is not just what it looks like and feels like. Design is how it works. - Steve Jobs",
+};
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika-cg&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshika-cg&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### 🖼️ Projects Showcase:
-- 🌐 **[Portfolio Website](https://vanshika-portfolio.com)**: My personal portfolio showcasing my work and skills
-- 📱 **[To-Do List App](https://github.com/vanshika-cg/todo-app)**: A simple, interactive app built with React and Node.js
-
----
-
-### 🚀 Latest Blog Posts:
-- 📝 **[10 Tips to Ace Frontend Development](https://medium.com/@vanshikajangam/10-tips-to-ace-frontend-development-12345)**
-
----
-
-### 🏆 Achievements:
-- ⭐ **Contributed to 5+ open-source projects**
-- 🥇 **Top 10 finalist in Hackathon 2024**
-- 📊 **100+ hours dedicated to coding challenges**
+console.log("Hello, world! I'm Vanshika, let's build something amazing together 🚀");
