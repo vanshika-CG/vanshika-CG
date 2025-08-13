@@ -55,3 +55,6 @@ const vanshika = {
 };
 
 console.log("Hello, world! I'm Vanshika — let's build something amazing together 🚀");
+```
+😂 Just for Fun
+<p align="center"> <img src="https://i.imgur.com/8MupZHY.gif" width="400"/> <br/> <i>"I don't always test my code... but when I do, I do it in production."</i> </p>
